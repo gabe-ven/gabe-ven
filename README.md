@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel Venezia
+# 👋 Hi, I'm Gabe
 
 I'm a **rising junior at UC Davis** studying **Computer Science**.
 

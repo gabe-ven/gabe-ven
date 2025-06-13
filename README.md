@@ -2,8 +2,8 @@
 
 I'm a **rising junior at UC Davis** studying **Computer Science**.
 
-- 🌱 Currently learning: **React.js** and **Next.js**
-- 🧠 Interests: **AI**, **Machine Learning**, **Computer Vision**, and **Software Engineering**
+- 🌱 Currently learning: **React** and **Next.js**
+- 🧠 Interests: **AI**, **Machine Learning**, and **Software Engineering**
 - 🎯 Always exploring new ways to apply technology for impactful solutions
 
 ## 🧑‍💻 Experience

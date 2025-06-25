@@ -2,13 +2,12 @@
 
 I'm a **rising junior at UC Davis** studying **Computer Science**.
 
-- 🌱 Currently learning: **React** and **Next.js**
 - 🧠 Interests: **AI**, **Machine Learning**, and **Software Engineering**
 - 🎯 Always exploring new ways to apply technology for impactful solutions
 
 ## 🧑‍💻 Experience
 
-- 🛰 **Incoming Software Engineering Intern** @ **NASA JPL**
+- 🛰 **Software Engineering Intern** @ **NASA JPL**
 - 🚀 **AI & Software Engineering Intern** @ **NASA JPL**
 
 ## 🔗 Connect with Me

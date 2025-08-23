@@ -7,8 +7,7 @@ I'm a **rising junior at UC Davis** studying **Computer Science**.
 
 ## 🧑‍💻 Experience
 
-- 🛰 **Software Engineering Intern** @ **NASA JPL**
-- 🚀 **AI & Software Engineering Intern** @ **NASA JPL**
+- 🛰 **2x Software Engineering Intern** @ **NASA JPL**
 
 ## 🔗 Connect with Me
 

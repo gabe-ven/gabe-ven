@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabe
 
-I'm a **rising junior at UC Davis** studying **Computer Science**.
+I'm a **junior at UC Davis** studying **Computer Science**.
 
 - 🧠 Interests: **AI**, **Machine Learning**, and **Software Engineering**
 - 🎯 Always exploring new ways to apply technology for impactful solutions
